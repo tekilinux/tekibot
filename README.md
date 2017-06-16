@@ -1,2 +1,2 @@
-# tekibot
+# TekiBot
 TekiLinux Slack Team Bot
